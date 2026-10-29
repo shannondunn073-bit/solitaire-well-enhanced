@@ -1,0 +1,9 @@
+*.bat text eol=crlf
+*.htm linguist-vendored
+*.gif binary
+src/**/*.ts linguist-detectable
+
+public/** linguist-vendored
+dist/* linguist-vendored
+src/**/*.tsx linguist-detectable
+*.svg text
